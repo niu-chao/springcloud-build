@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>springloud-build</artifactId>
+        <groupId>springloud-build</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>springloud-build</groupId>
+    <artifactId>springclould-generator</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>springclould-generator-mdc</module>
+        <module>springclould-generator-omc</module>
+        <module>springclould-generator-opc</module>
+        <module>springclould-generator-tpc</module>
+        <module>springclould-generator-uac</module>
+    </modules>
+
+
+</project>

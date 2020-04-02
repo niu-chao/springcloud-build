@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-common/springloud-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-common/springloud-common-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-common/springloud-security-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-generator/springclould-generator-opc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-provider-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-provider-api/springloud-provider-mdc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-provider-api/springloud-provider-omc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springclould-provider-api/springloud-provider-opc-api" charset="UTF-8" />
+  </component>
+</project>

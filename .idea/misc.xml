@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springcloud-eureka" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-common" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-discovery" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-generator/springclould-generator-mdc" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-generator/springclould-generator-omc" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-generator/springclould-generator-opc" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-generator/springclould-generator-tpc" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-generator/springclould-generator-uac" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-monitor" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-provider-api" />
+    <file type="web" url="file://$PROJECT_DIR$/springclould-zipkin" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springclould-common/springloud-common-core/pom.xml" />
+        <option value="$PROJECT_DIR$/springclould-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/springclould-provider-api/springloud-provider-tpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springclould-provider/springloud-provider-tpc/pom.xml" />
+        <option value="$PROJECT_DIR$/springclould-provider/springloud-provider-uac/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

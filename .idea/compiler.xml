@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springloud-provider-omc" />
+        <module name="springclould-generator-omc" />
+        <module name="springloud-provider-opc" />
+        <module name="springclould-zipkin" />
+        <module name="springloud-security-feign" />
+        <module name="springloud-provider-mdc-api" />
+        <module name="springloud-security-core" />
+        <module name="springclould-generator-uac" />
+        <module name="springcloud-eureka" />
+        <module name="springloud-provider-omc-api" />
+        <module name="springclould-gateway" />
+        <module name="springloud-common-config" />
+        <module name="springclould-generator-opc" />
+        <module name="springloud-common-base" />
+        <module name="springclould-monitor" />
+        <module name="springclould-generator-mdc" />
+        <module name="springloud-security-app" />
+        <module name="springclould-discovery" />
+        <module name="springclould-generator-tpc" />
+        <module name="springloud-common-zk" />
+        <module name="springloud-provider-uac-api" />
+        <module name="springloud-provider-mdc" />
+        <module name="springloud-provider-opc-api" />
+        <module name="springloud-common-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springclould-generator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
